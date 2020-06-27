@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(images/pic5.jpg);
+    background-image: url(./pic5.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
